@@ -1,6 +1,6 @@
 # Greetings 👋
 
-My name is Jakub Wolański and I'm a web developer from :european_castle: Poland specializing in **Python** and **JavaScript** languages. I enjoy to work with backend and frontend of web applications. I am eager to learn new things and I try to experiment with new technologies.
+My name is Jakub Wolański and I'm a web developer from Poland specializing in **Python** and **JavaScript** languages. I enjoy to work with backend and frontend of web applications. I am eager to learn new things and I try to experiment with new technologies.
 
 
 - :hammer: I’m currently working on a web engineering calculator app designed to help HVAC (*Heating, Ventilation and Air Conditioning*) and Plumbing design engineers with their every-day tasks such as performing hydronic calculations, making selection of valves, equipment and more.
