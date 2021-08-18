@@ -5,5 +5,3 @@ My name is Jakub Wolański and I'm a developer from Poland specializing in **Pyt
 - :computer: Current technology stack: :snake: Python (Flask, Django) | :alien: JavaScript (Vue, React).
 - :bulb: I’m looking to collaborate on challenging projects related to Flask and Django frameworks.
 - :email: How to reach me: wolanski.jakub@gmail.com.
-- :construction: Fun fact: I'm also a mechanical engineer with prior 10 years of experience in design engineering.
-
